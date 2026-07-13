@@ -24,7 +24,7 @@ jobs:
       - name: Install and Build 🔧
         run: |
           npm install
-          npm run build:prod  # 💡 執行 Vue 打包，預設會產出包含網頁靜態檔案的 dist 資料夾
+          npm run build:test  # 💡 執行 Vue 打包，預設會產出包含網頁靜態檔案的 dist 資料夾
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
