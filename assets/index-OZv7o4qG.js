@@ -1,1 +1,0 @@
-import{d as a,K as o}from"./index-SV7rdWI2.js";const n=a({created(){const{params:e,query:t}=this.$route,{path:r}=e;this.$router.replace({path:"/"+r,query:t})},render(){return o("div")}});export{n as default};
