@@ -1,1 +1,0 @@
-import{a7 as t,c as o,a9 as c,e as a}from"./index-4Bq4xIUL.js";import{E as n}from"./el-alert-bVd4T5Bk.js";import"./index--Xa8qzfu.js";const r={},s={style:{padding:"30px"}};function l(_,i){const e=n;return a(),o("div",s,[c(e,{closable:!1,title:"menu 2"})])}const f=t(r,[["render",l]]);export{f as default};
