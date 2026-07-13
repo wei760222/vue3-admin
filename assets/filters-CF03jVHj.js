@@ -1,0 +1,1 @@
+function r(e){return(+e||0).toString().replace(/^-?\d+/g,t=>t.replace(/(?=(?!\b)(\d{3})+$)/g,","))}function a(e){return typeof e=="string"&&e.length>0?e.charAt(0).toUpperCase()+e.slice(1):e}export{r as t,a as u};
