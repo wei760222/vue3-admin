@@ -40,7 +40,7 @@ export default defineConfig(({ command, mode }) => {
   });
 
   return {
-    base: '/', // 注意，必须以"/"结尾，BASE_URL配置
+    base: '/vue3-admin/', // 注意，必须以"/"结尾，BASE_URL配置
     resolve: {
       alias: {
         '@': fileURLToPath(new URL('./src', import.meta.url))
