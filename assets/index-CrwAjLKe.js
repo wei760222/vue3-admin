@@ -1,0 +1,1 @@
+import{a7 as a,c as n,a9 as e,w as r,aa as s,e as c}from"./index-4Bq4xIUL.js";import{E as _}from"./el-alert-bVd4T5Bk.js";import"./index--Xa8qzfu.js";const l={},i={style:{padding:"30px"}};function m(p,d){const t=s("router-view"),o=_;return c(),n("div",i,[e(o,{closable:!1,title:"menu 1"},{default:r(()=>[e(t)]),_:1})])}const v=a(l,[["render",m]]);export{v as default};
