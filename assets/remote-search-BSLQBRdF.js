@@ -1,0 +1,1 @@
+import{aU as t}from"./index-CCXL5SME.js";function a(e){return t({url:"/vue-element-admin/search/user",method:"get",params:{name:e}})}function s(e){return t({url:"/vue-element-admin/transaction/list",method:"get",params:e})}export{a as s,s as t};
